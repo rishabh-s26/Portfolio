@@ -1,0 +1,48 @@
+[
+{
+    "id":1,
+    "role": "Rishabh Sharma",
+    "organisation": "Google",
+    "startDate": "",
+    "endDate": "",
+    "location": "",
+    "experiences":[
+       "I am a frontend Developer, building and managing the Front-end of websites and web applications that leads to the success of the overall products.I have always been fascinated by knowledge and learning new things.I am well acquainted with HTML,CSS, JavaScript,React and bootstrap . I constantly trying to improve my skills and exploring new technologies . "
+    ],
+    "imageSrc": ""
+},
+{
+    "id":2,
+    "role": "I am open to Job opportunities where I can contribute,learn and grow . Feel free to connect with me.   ",
+    "organisation": "Google",
+    "startDate": "",
+    "endDate": "",
+    "location": "",
+    "experiences":[
+     "",
+     "Gmail-rishabhsharma.rs1747@gmail.com"
+    ],
+    "imageSrc": "company/microsoft.png" 
+
+},
+
+{
+    "id":3,
+    "role": "Experience",
+    "organisation": "Google",
+    "startDate": "Self Employed",
+    "endDate": "(jan-2023- present)",
+    "location": "",
+    "experiences":[
+
+     "Code and build something in everyday useing HTML,CSS,JavaScript,React.",
+     "Check out some of my work in the project section"
+    ],
+    "imageSrc": "company/microsoft.png" 
+
+}
+
+]
+
+
+

@@ -1,0 +1,32 @@
+[
+    {
+        "title":"HTML",
+        "imageSrc": "skills/5835.jpg"
+    },
+
+    {
+        "title":"CSS",
+        "imageSrc":"skills/5968242.png"
+    },
+    {
+        "title":"JavaScript",
+        "imageSrc":"skills/javascript-logo-javascript-icon-transparent-free-png.webp"
+    },
+
+    {
+        "title":"React",
+        "imageSrc":"skills/images.png"
+    },
+
+    {
+        "title":"Bootstrop",
+        "imageSrc":"skills/Bootstrop.jpg"
+    }
+
+
+    
+
+   
+
+
+]
